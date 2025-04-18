@@ -94,4 +94,3 @@ for page in range(1, 51):
 
 df = pd.DataFrame(content)
 df.to_csv('C:\\Users\\HM Laptops\\Desktop\\Sample\\Property_scrap.csv', index=False)
-print("✅ Data saved to CSV.")
